@@ -5,7 +5,7 @@ Portfolio
 ### About me :wave:
 
 
-[My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
+[My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
 
 ### My experience :office:
 
