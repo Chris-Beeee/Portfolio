@@ -51,11 +51,9 @@ Brief portfolio with links
 * selenium for python
 * Pytest for python
 * HTML and CSS
-* Creating documentation
-* 
-* experience with testing SaaS web applications
-* performing smoke tests
-* testing UAT
+* Creating documentation (test plans, test scripts, test cases, defect statistics)
+* Testing SaaS applications (websites, APIs, complex multi-step workflows)
+* Facilitating UAT sessions
 * scrum workflow
 
 ### Soft skills :file_folder:
