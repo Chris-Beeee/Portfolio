@@ -1,5 +1,5 @@
 # Portfolio
-Brief portfolio with links v1.0
+Brief portfolio with links v1.0. I have automation exmples marked as private. when they are ready I will publish them here. 
 
 ### About me :wave:
 
