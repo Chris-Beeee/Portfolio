@@ -14,7 +14,7 @@ Brief portfolio with links
 * [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software) - Team collaboration and planning 
 * [Slack](https://slack.com/) - Team collaboration and planning
 * [SSMS](https://learn.microsoft.com/en-us/sql/ssms/) - Our main client-facing DB
-* [Toad for Oracle]((https://www.quest.com/toad)) - Our primary DB for business apps
+* [Toad for Oracle](https://www.quest.com/toad) - Our primary DB for business apps
 * [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - 
 * [Postman](https://www.postman.com/) - API testing
