@@ -1,6 +1,5 @@
 # Portfolio
-Brief portfolio with links to my work
-Portfolio
+Brief portfolio with links
 
 ### About me :wave:
 
@@ -10,17 +9,17 @@ Portfolio
 ### My experience :office:
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira),  - 
-* [Slack](https://slack.com/) -
-* [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-* [dummy](link) - 
-* [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - 
+* [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) - Defet Mangement, Kanban and piplelines for CI
+* [Jira](https://www.atlassian.com/pl/software/jira)  - Defect management and Kanban
+* [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software) - Team collaboration and planning 
+* [Slack](https://slack.com/) - Team collaboration and planning
+* [SSMS](https://learn.microsoft.com/en-us/sql/ssms/) - Our main client-facing DB
+* [Toad for Oracle]((https://www.quest.com/toad)) - Our primary DB for business apps
+* [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - 
-* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
 * [Postman](https://www.postman.com/) - API testing
-* [SOAP UI]((https://www.soapui.org/)) - API testingSOAP UI https://www.soapui.org/
+* [SOAP UI]((https://www.soapui.org/)) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-* Nunit
 * [Selenium](https://www.selenium.dev/)
 * [Kibana](https://www.elastic.co/kibana)
 
@@ -42,8 +41,7 @@ Portfolio
 
 * Rest API testing
 * SOAP API testing
-* [ISTQB Foundation Level]()
-* ISTQB automation
+
 *  software development models (waterfall, v model, iterative and incremental model, agile)
 * Software testing
 * Creating test cases
@@ -67,7 +65,8 @@ Portfolio
 * 
 
 ### Certificates :trophy:
-* 
+* ISTQB Foundation Level
+* ISTQB automation
 
 ### Samples :microscope:
 **1. Allegro Sandbox**
