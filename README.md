@@ -18,7 +18,7 @@ Brief portfolio with links
 * [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - 
 * [Postman](https://www.postman.com/) - API testing
-* [SOAP UI]((https://www.soapui.org/)) - API testing
+* [SOAP UI](https://www.soapui.org/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [Antigravity](https://antigravity.google/) - IDE for generating code using Gemini, Claude and GPT
 * [Selenium](https://www.selenium.dev/)
