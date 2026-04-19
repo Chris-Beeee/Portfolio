@@ -1,5 +1,5 @@
 # Portfolio
-Brief portfolio with links
+Brief portfolio with links v1.0
 
 ### About me :wave:
 
