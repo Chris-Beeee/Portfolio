@@ -20,6 +20,7 @@ Brief portfolio with links
 * [Postman](https://www.postman.com/) - API testing
 * [SOAP UI]((https://www.soapui.org/)) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [Antigravity](https://antigravity.google/) - IDE for generating code using Gemini, Claude and GPT
 * [Selenium](https://www.selenium.dev/)
 * [Kibana](https://www.elastic.co/kibana)
 
@@ -41,36 +42,17 @@ Brief portfolio with links
 
 * Rest API testing
 * SOAP API testing
-
-*  software development models (waterfall, v model, iterative and incremental model, agile)
-* Software testing
-* Creating test cases
-* Reporting bugs
-* Creating bug reports
-* Basic [Python](https://www.python.org/) - for test automation
-* selenium for python
-* Pytest for python
+* Python and C# for web fonr-end test automation
+* Selenium for Python and C#
+* Pytest for Python
 * HTML and CSS
 * Creating documentation (test plans, test scripts, test cases, defect statistics)
 * Testing SaaS applications (websites, APIs, complex multi-step workflows)
 * Facilitating UAT sessions
-* scrum workflow
+* different software development models scrum, waterfall, v model, iterative and incremental model, agile) 
 
-### Soft skills :file_folder:
-* 
-
-### Courses :notebook:
-* 
 
 ### Certificates :trophy:
 * ISTQB Foundation Level
-* ISTQB automation
-
-### Samples :microscope:
-**1. Allegro Sandbox**
-* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
-* 
-**2. Generic Shop by TestArmy**
-* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
-* 
+* ISTQB Advanced Level Test Automation Engineer
 
