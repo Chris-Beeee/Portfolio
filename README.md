@@ -49,7 +49,7 @@ Brief portfolio with links v1.1 (22/04/2026). I have automation examples marked 
 * Creating documentation (test plans, test scripts, test cases, defect statistics)
 * Testing SaaS applications (websites, APIs, complex multi-step workflows)
 * Facilitating UAT sessions
-* Different software development models scrum, waterfall, v model, iterative and incremental model, agile) 
+* Different software development models (scrum, waterfall, v model, iterative and incremental model, agile) 
 
 ### Projects
 * Large-scale transformational project to move media content management from a Windows Form connected to an on-prem Oracle instance to an Azure cloud environment to allow outsourcing and machine learning
