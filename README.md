@@ -1,5 +1,5 @@
 # Portfolio
-Brief portfolio with links v1.1 (22/04/2026). I will be adding to this regularly. 
+Brief portfolio with links.This is not complete, I will be adding to it regularly. 
 
 ### About me :wave:
 
