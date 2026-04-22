@@ -1,5 +1,5 @@
 # Portfolio
-Brief portfolio with links v1.0. I have automation examples marked as private. when they are ready I will publish them here. 
+Brief portfolio with links v1.1 (22/04/2026). I have automation examples marked as private. when they are ready I will publish them here. 
 
 ### About me :wave:
 
