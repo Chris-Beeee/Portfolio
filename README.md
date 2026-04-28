@@ -54,6 +54,9 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 ###Test environment management
 Environment: Around 50 on-prem servers, the vast majority VMs, running different versions of Windows server OS. The primary workflow reuired Microsoft Message Queueing to be operational, which required regular ordered restarts to be operational. I would do this and other minor IT Operations tasks, only escalating to the wider IT team via servicedesk ticket if normal remedies were not working to resolve the issue. 
 
+###Servicedesk defect management
+Issues raised by both clients and business users were escalated to me as a point of first contact within the dev team to triage and recommend causes and solutions.
+I would then add my analysis onto the development ticket for developers to analyse. and liase with the business stakeholder or client services manager (depending on the source of the ticket)
 
 ### Projects
 * Large-scale transformational project to move media content management from a Windows Form connected to an on-prem Oracle instance to an Azure cloud environment to allow outsourcing and machine learning
