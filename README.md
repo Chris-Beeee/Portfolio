@@ -5,6 +5,7 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 
 
 [My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
+
 [Portfolio deck](https://docs.google.com/presentation/d/16uD16BWyby76N4XpWsaxfexfRB0yF-SCtcM-HG7Pi4Y/edit?usp=sharing)
 
 ### My experience 
