@@ -4,9 +4,7 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 ### About me
 
 
-[My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
-[Portfolio deck](https://docs.google.com/presentation/d/16uD16BWyby76N4XpWsaxfexfRB0yF-SCtcM-HG7Pi4Y/edit?usp=sharing)
-
+* [My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
 
 ### Automation Examples
 
@@ -21,14 +19,8 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 
 ### Mobile app tests using Appium + Pytest
 * [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
-* [Front end scraping and back-end verification]()
+* [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)
  
-### API Tests using Pytest + Requests
-* [ReadMe](https://github.com/Chris-Beeee/APItestsGEM/blob/master/README.md)
-* [Positive test case](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_POS_GET_list.py)
-* [Negative test case](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_NEG_PUT_update_resource.py)
-* [Negative test case with expected failure condition](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py)
-
 ### My experience 
 
 ### Tools 
