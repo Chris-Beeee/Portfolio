@@ -13,7 +13,7 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 * [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
 * [Youtube (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_pom.py)
 * [Amazon (linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_search_linear.py)
-* [Amazon Test Case (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_search_pom.py)
+* [Amazon (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_search_pom.py)
 * [GiantBomb (linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_linear.py)
 * [GiantBomb (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_pom.py)
 
