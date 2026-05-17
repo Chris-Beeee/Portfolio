@@ -35,7 +35,7 @@
 * [SOAP UI](https://www.soapui.org/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
 * [Antigravity](https://antigravity.google/) - IDE for generating code using Gemini, Claude and GPT
-* [Selenium](https://www.selenium.dev/) webdriver for fton end web UI testing. Used with both C# and Python
+* [Selenium](https://www.selenium.dev/) webdriver for front end web UI testing. Used with both C# and Python
 * [Kibana](https://www.elastic.co/kibana) Logging and monitoring
 
 
