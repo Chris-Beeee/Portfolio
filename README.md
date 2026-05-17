@@ -8,7 +8,7 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 
 ### Automation Examples
 
-### Web UI automation (Linear test case design vs Page Object Model
+### Web UI automation using Pytest (Linear test case design vs Page Object Model
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
 * [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
 * [Youtube (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_pom.py)
