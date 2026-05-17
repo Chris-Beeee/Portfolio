@@ -31,7 +31,7 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 * [SSMS](https://learn.microsoft.com/en-us/sql/ssms/) - Our main client-facing DB
 * [Toad for Oracle](https://www.quest.com/toad) - Our primary DB for business apps
 * [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
-* [Telerik Web Debugger (Fiddler)]((https://www.telerik.com/fiddler)) - Network analysis
+* [Telerik Web Debugger (Fiddler)](https://www.telerik.com/fiddler) - Network analysis
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - Defect triage
 * [Postman](https://www.postman.com/) - API testing
 * [SOAP UI](https://www.soapui.org/) - API testing
