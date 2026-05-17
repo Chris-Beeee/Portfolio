@@ -10,11 +10,14 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 
 ### Automation Examples
 
-### Web UI Verification/Scraping Using Pytest
-* [ReadMe]()
-* [YouTube Test Case]()
-* [Amazon Test Case]()
-* [GiantBomb Test Case]()
+### Web UI Scraping Using Pytest
+* [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
+* [YouTube Test Case](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_frontpage_videos.py)
+* [Amazon Test Case](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_POC.py)
+* [GiantBomb Test Case](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbombfrontpage_elements.py)
+* [Youtube Test Case (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_POM_YouTube.py)
+* [Amazon Test Case (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_POM_Amazon_scrape.py)
+* [GiantBomb Test Case (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_POM_GiantBomb.py)
 
 ### Mobile app tests using Appium + Pytest
 * [ReadMe]()
