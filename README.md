@@ -1,8 +1,6 @@
 # Portfolio
-Brief portfolio with links.This is not complete, I will be adding to it regularly. 
 
-### About me
-
+## About me
 
 * [My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
 
