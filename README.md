@@ -22,7 +22,7 @@
 ### My experience 
 
 ### Tools 
-* [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) - Defect Mangement, Kanban and piplelines for CI
+* [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) - Defect Management, Kanban and pipelines for CI
 * [Jira](https://www.atlassian.com/pl/software/jira)  - Defect management and Kanban
 * [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software) - Team collaboration and planning 
 * [Slack](https://slack.com/) - Team collaboration and planning
