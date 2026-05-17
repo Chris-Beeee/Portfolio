@@ -56,7 +56,7 @@
 
 * Rest API testing
 * SOAP API testing
-* Python and C# for web fonr-end test automation
+* Python and C# for web front-end test automation
 * Selenium for Python and C#
 * Pytest for Python
 * HTML and CSS
