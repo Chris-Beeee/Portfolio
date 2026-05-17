@@ -5,8 +5,26 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 
 
 [My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
-
 [Portfolio deck](https://docs.google.com/presentation/d/16uD16BWyby76N4XpWsaxfexfRB0yF-SCtcM-HG7Pi4Y/edit?usp=sharing)
+
+
+### Automation Examples
+
+### Web UI Verification/Scraping Using Pytest
+* [ReadMe]()
+* [YouTube Test Case]()
+* [Amazon Test Case]()
+* [GiantBomb Test Case]()
+
+### Mobile app tests using Appium + Pytest
+* [ReadMe]()
+* [Front end scraping and back-end verification]()
+ 
+### API Tests using Pytest + Requests
+* [ReadMe]()
+* [Positive test case]()
+* [Negative test case]()
+* [Negative test case with expected failure condition]()
 
 ### My experience 
 
@@ -18,7 +36,8 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 * [SSMS](https://learn.microsoft.com/en-us/sql/ssms/) - Our main client-facing DB
 * [Toad for Oracle](https://www.quest.com/toad) - Our primary DB for business apps
 * [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
-* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - 
+* [Telerik Web Debugger (Fiddler)]((https://www.telerik.com/fiddler)) - Network analysis
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - Defect triage
 * [Postman](https://www.postman.com/) - API testing
 * [SOAP UI](https://www.soapui.org/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
