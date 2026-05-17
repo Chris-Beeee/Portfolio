@@ -20,14 +20,14 @@ Brief portfolio with links.This is not complete, I will be adding to it regularl
 * [GiantBomb Test Case (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_POM_GiantBomb.py)
 
 ### Mobile app tests using Appium + Pytest
-* [ReadMe]()
+* [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
 * [Front end scraping and back-end verification]()
  
 ### API Tests using Pytest + Requests
-* [ReadMe]()
-* [Positive test case]()
-* [Negative test case]()
-* [Negative test case with expected failure condition]()
+* [ReadMe](https://github.com/Chris-Beeee/APItestsGEM/blob/master/README.md)
+* [Positive test case](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_POS_GET_list.py)
+* [Negative test case](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_NEG_PUT_update_resource.py)
+* [Negative test case with expected failure condition](https://github.com/Chris-Beeee/APItestsGEM/blob/master/tests/test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py)
 
 ### My experience 
 
