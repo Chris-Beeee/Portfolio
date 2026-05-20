@@ -21,7 +21,7 @@
 
 ### API testing using Pytest and requests
 * [ReadMe](https://github.com/Chris-Beeee/APITestGeneric/blob/main/README.md)
-* [positive tests](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_negative.py)
+* [Positive tests](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_negative.py)
 * [Negative tests (failures and expected failures)](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_positive.py)
  
 ### My experience 
