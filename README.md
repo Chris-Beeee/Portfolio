@@ -6,7 +6,7 @@
 
 ### Automation Examples
 
-### Web UI automation using Pytest 
+### Web UI automation using Selenium and Pytest 
 This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases
 * Front-end web UI interactions
 * Scraping for film data from web UI
