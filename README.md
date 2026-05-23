@@ -17,7 +17,7 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 * [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
 * [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
 
-### Test case design: Linear design vs Page Object Model)
+### Test case design: Linear design vs Page Object Model
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
 * [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
 * [Youtube (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_pom.py)
