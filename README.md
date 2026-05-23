@@ -14,7 +14,7 @@ This project combines several different elements into one set of test cases usin
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
 * [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
 * [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
-* [Filtering on 3 basic metrics)](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
+* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
 * [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
 
 ### Test case design: Linear design vs Page Object Model)
