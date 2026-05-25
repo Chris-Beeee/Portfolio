@@ -9,7 +9,7 @@
 ### Web UI automation using Selenium and Pytest 
 This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases
 * Front-end web UI interactions
-* Scraping for film data from web UI
+* Scraping for movie data from web UI
 * Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
 * [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
