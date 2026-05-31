@@ -16,7 +16,6 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 * Randomised paramaters
     
 #### Selenium / Pytest (IDE: Pycharm)
-
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
 * [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
 * [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
@@ -26,22 +25,21 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 
 #### Playwright / Pytest (IDE: Pycharm)
 These are the same test cases re-factored to work in Playwright for Python
-* [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
-* [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
-* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
-* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
-* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
+* [ReadMe](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/README.md)
+* [Verifying a single top level menu result](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_now_playing.py)
+* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_categories.py)
+* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover.py)
+* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover_complex.py)
+* [filtering on randomised metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover_random.py)
 
 #### Typescript / Playwright (IDE: VS Code)
 These are the same test cases re-factored to work in Playwright for Typescript
-* Front-end web UI interactions
-* Scraping for movie data from web UI
-* Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
-* [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
-* [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
-* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
-* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
-* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
+* [ReadMe](https://github.com/Chris-Beeee/Typescript/blob/main/README.md)
+* [Verifying a single top level menu result](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbNowPlaying.spec.ts)
+* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbCategories.spec.ts)
+* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscover.spec.ts)
+* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverComplex.spec.ts)
+* [filtering on randomised metrics](http://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverRandom.spec.ts)
 
 ### Test case design: Linear design vs Page Object Model
 This project demonstrates re-factoring of linear test cases to the Page Object Model using three complex dynamic websites. 
