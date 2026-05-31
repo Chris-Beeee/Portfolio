@@ -6,8 +6,34 @@
 
 ## Automation Examples
 ### Web UI automation 
-#### Selenium / Pytest IDE: Pycharm
+
 This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases
+* Front-end web UI interactions
+* Scraping for movie data from web UI
+* Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
+* A fallback mock API if user does not have API credentials
+* Parameterised tests
+* Randomised paramaters
+    
+#### Selenium / Pytest (IDE: Pycharm)
+
+* [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
+* [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
+* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
+* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
+* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
+* [filtering on randomised metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_random.py)
+
+#### Playwright / Pytest (IDE: Pycharm)
+These are the same test cases re-factored to work in Playwright for Python
+* [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
+* [Verifying a single top level menu result](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_now_playing_pom.py)
+* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_categories_pom.py)
+* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_pom.py)
+* [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
+
+#### Typescript / Playwright (IDE: VS Code)
+These are the same test cases re-factored to work in Playwright for Typescript
 * Front-end web UI interactions
 * Scraping for movie data from web UI
 * Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
@@ -18,6 +44,7 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 * [filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
 
 ### Test case design: Linear design vs Page Object Model
+This project demonstrates re-factoring of linear test cases to the Page Object Model using three complex dynamic websites. 
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
 * [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
 * [Youtube (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_pom.py)
