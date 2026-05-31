@@ -12,6 +12,7 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 * Scraping for movie data from web UI
 * Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
 * A fallback mock API if user does not have API credentials
+* Tests can be run either with or without user login credentials. 
 * Parameterised tests
 * Randomised paramaters
     
