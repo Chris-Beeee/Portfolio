@@ -73,11 +73,14 @@ This project demonstrates re-factoring of linear test cases to the Page Object M
 * [Powershell](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell) - Scripting for environnment management
 * [Telerik Web Debugger (Fiddler)](https://www.telerik.com/fiddler) - Network analysis
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - Defect triage
+* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [VS Code](https://code.visualstudio.com/download) - IDE for Typescript
+* [Antigravity](https://antigravity.google/) - IDE for generating code using Gemini, Claude and GPT
+* [Selenium](https://www.selenium.dev/) Webdriver for front end web UI testing. Used with both C# and Python
+* [Pytest](https://docs.pytest.org/en/stable/) - Test framework for Python
+* [Typescript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - Superset of Javascript
 * [Postman](https://www.postman.com/) - API testing
 * [SOAP UI](https://www.soapui.org/) - API testing
-* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-* [Antigravity](https://antigravity.google/) - IDE for generating code using Gemini, Claude and GPT
-* [Selenium](https://www.selenium.dev/) webdriver for front end web UI testing. Used with both C# and Python
 * [Kibana](https://www.elastic.co/kibana) Logging and monitoring
 
 
