@@ -5,7 +5,7 @@
 * [My Linkedin profile](https://www.linkedin.com/in/chris-blenkarn-a25319179/)
 
 ## Automation Examples
-### Web UI automation 
+### 1) Web UI automation 
 
 This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases
 * Front-end web UI interactions
@@ -42,7 +42,7 @@ These are the same test cases re-factored to work in Playwright for Typescript
 * [Filtering on multiple complex metrics](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverComplex.spec.ts)
 * [Filtering on randomised metrics](http://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverRandom.spec.ts)
 
-### Test case design: Linear design vs Page Object Model
+### 2) Test case design: Linear design vs Page Object Model
 This project demonstrates re-factoring of linear test cases to the Page Object Model using three complex dynamic websites. 
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
 * [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
@@ -52,11 +52,11 @@ This project demonstrates re-factoring of linear test cases to the Page Object M
 * [GiantBomb (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_linear.py)
 * [GiantBomb (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_pom.py)
 
-### Mobile app tests using Appium + Pytest
+### 3) Mobile app tests using Appium + Pytest
 * [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
 * [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)
 
-### API testing using Pytest and requests
+### 4) API testing using Pytest and requests
 * [ReadMe](https://github.com/Chris-Beeee/APITestGeneric/blob/main/README.md)
 * [Positive tests](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_negative.py)
 * [Negative tests (failures and expected failures)](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_positive.py)
