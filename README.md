@@ -45,10 +45,6 @@ These are the same test cases re-factored to work in Playwright for Typescript
 ### 2) Test case design: Linear design vs Page Object Model
 This project demonstrates re-factoring of linear test cases to the Page Object Model using three complex dynamic websites. 
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
-* [YouTube (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_linear.py)
-* [Youtube (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_youtube_search_pom.py)
-* [Amazon (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_search_linear.py)
-* [Amazon (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_amazon_search_pom.py)
 * [GiantBomb (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_linear.py)
 * [GiantBomb (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_pom.py)
 
