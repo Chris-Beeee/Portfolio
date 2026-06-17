@@ -11,7 +11,7 @@
 * [Verify a folder structure and file contents](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_folder_structure.py)
 * [Verify Windows services and status](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_services.py)
 
-* ### (Work in Progress - very early) Performance/Load testing with Locust/Python
+### (Work in Progress - very early) Performance/Load testing with Locust/Python
 * [ReadMe](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
 * [Basic load test using a public test resource](https://github.com/Chris-Beeee/Locust_load_test/blob/main/locustfile.py)
 
