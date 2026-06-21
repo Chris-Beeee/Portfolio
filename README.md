@@ -6,7 +6,7 @@
 
 ## Automation Examples
 
-### (Work in Progress) Machine learning reconmendation engine 
+### (Work in Progress) Machine learning movie recommendation engine 
 * [ReadMe](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md) contains changelog of 20+ significant QA issues tackled so far
 * [Profile based recommendations](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_profile.py) using TF-IDF Vectorization and Cosine Similarity
 * ['Tinder for movies'](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)  - a more experimental project with 'Epsilon greedy' mathematical weighting
