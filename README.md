@@ -6,6 +6,11 @@
 
 ## Automation Examples
 
+### (Work in Progress) Machine learning reconmendation engine 
+* [ReadMe (contains changelog of 20+ significant QA issues tackled so far](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md)
+* [Profile based recommendations using TF-IDF Vectorization and Cosine Similarity](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_profile.py)
+* ['Tinder for movies' - a more experimental project with 'Epsilon greedy' mathematical weighting](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)
+
 ### (Work in Progress) Basic infrastructure verification using Pytest with Powershell integration
 * [ReadMe](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/README.md)
 * [Verify a folder structure and file contents](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_folder_structure.py)
