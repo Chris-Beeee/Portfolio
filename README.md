@@ -40,8 +40,6 @@ These are the same test cases re-factored to work in Playwright for Typescript
 * [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
 * [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)**
 
-### My experience 
-
 ### Tools 
 * [Azure DevOps](https://azure.microsoft.com/en-us/products/devops) - Defect Management, Kanban and pipelines for CI
 * [Jira](https://www.atlassian.com/pl/software/jira)  - Defect management and Kanban
