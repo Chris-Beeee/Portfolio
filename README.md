@@ -7,7 +7,7 @@
 ## Automation Examples
 
 ### Machine learning movie recommendation engine 
-* [ReadMe](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md) contains changelog of 20+ significant QA issues tackled so far
+* [ReadMe](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md) Interactive ML Movie Recommender with Epsilon-Greedy Active Learning + Full QA Changelog."
 * [Profile based recommendations](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_profile.py) using TF-IDF Vectorization and Cosine Similarity
 * ['Tinder for movies'](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)  - a more experimental active learning project with 'Epsilon greedy' mathematical weighting
 
@@ -30,15 +30,6 @@ This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a 
 * [Filtering on multiple complex metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_complex.py)
 * [Filtering on randomised metrics](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/tests/test_tmdb_discover_random.py)
 
-#### Playwright / Pytest (IDE: Pycharm)
-These are the same test cases re-factored to work in Playwright for Python
-* [ReadMe](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/README.md)
-* [Verifying a single top level menu result](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_now_playing.py)
-* [Verifying multiple top level menu results](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_categories.py)
-* [Filtering on 3 basic metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover.py)
-* [Filtering on multiple complex metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover_complex.py)
-* [Filtering on randomised metrics](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/tests/test_tmdb_discover_random.py)
-
 #### Typescript / Playwright (IDE: VS Code)
 These are the same test cases re-factored to work in Playwright for Typescript
 * [ReadMe](https://github.com/Chris-Beeee/Typescript/blob/main/README.md)
@@ -48,28 +39,14 @@ These are the same test cases re-factored to work in Playwright for Typescript
 * [Filtering on multiple complex metrics](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverComplex.spec.ts)
 * [Filtering on randomised metrics](http://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverRandom.spec.ts)
 
-### Infrastructure verification using Pytest with Powershell integration
-* [ReadMe](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/README.md)
-* [Verify a folder structure and file contents](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_folder_structure.py)
-* [Verify Windows services and status](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_services.py)
-
 ### Performance/Load testing with Locust/Python
 * [ReadMe](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
 * [Basic load test using a public test resource](https://github.com/Chris-Beeee/Locust_load_test/blob/main/locustfile.py)
-
-### Python script to add bespoke text to application cover letters
-* [ReadMe](https://github.com/Chris-Beeee/coverletter/blob/main/README.md)
-* [Main method](https://github.com/Chris-Beeee/coverletter/blob/main/main.py)
 
 ### Mobile app tests using Appium + Pytest
 * [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
 * [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)**
 
-### API testing using Pytest and requests
-* [ReadMe](https://github.com/Chris-Beeee/APITestGeneric/blob/main/README.md)
-* [Positive tests](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_negative.py)
-* [Negative tests (failures and expected failures)](https://github.com/Chris-Beeee/APITestGeneric/blob/main/tests/test_posts_positive.py)
- 
 ### My experience 
 
 ### Tools 
