@@ -18,7 +18,7 @@ This portfolio demonstrates my recent hands-on focus on strengthening **Python-b
 - Profile-based mode + interactive **'Tinder for movies'** active learning with Epsilon-Greedy
 - Extensive QA focus: data quality, bias mitigation, edge cases, and regression issues
 
-→ [View Project & Detailed QA Changelog](https://github.com/Chris-Beeee/ML_sandbox)
+→ [View Project & Detailed QA Changelog](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md)
 
 ### Web UI Automation + Backend API Verification (TMDB)
 **Core strength**: Comprehensive test suites combining UI interactions, scraping, and live backend API verification with complex filtering logic.  
@@ -29,15 +29,15 @@ This portfolio demonstrates my recent hands-on focus on strengthening **Python-b
 - Playwright + Pytest (Python) — recent refactoring exercise
 - Playwright + TypeScript — early exploration
 
-→ [Selenium Version (Primary)](https://github.com/Chris-Beeee/SeleniumUIVerification)  
-→ [Playwright Python Version](https://github.com/Chris-Beeee/playwright_sandbox)  
-→ [Playwright TypeScript](https://github.com/Chris-Beeee/Typescript)
+→ [Selenium Version (Primary)](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)  
+→ [Playwright Python Version](https://github.com/Chris-Beeee/playwright_sandbox/blob/main/README.md)  
+→ [Playwright TypeScript](https://github.com/Chris-Beeee/Typescript/blob/main/README.md)
 
 ### Other Notable Projects
-- **Infrastructure Verification** — Pytest + PowerShell for folder structures and Windows services → [Link](https://github.com/Chris-Beeee/infrastructure_sandbox)
-- **Mobile Testing** — Appium + Pytest → [Link](https://github.com/Chris-Beeee/Appium)
-- **API Testing** — Pytest + Requests (positive/negative) → [Link](https://github.com/Chris-Beeee/APITestGeneric)
-- **Load Testing** — Basic Locust implementation → [Link](https://github.com/Chris-Beeee/Locust_load_test)
+- **Infrastructure Verification** — Pytest + PowerShell for folder structures and Windows services → [Link](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/README.md)
+- **Mobile Testing** — Appium + Pytest → [Link](https://github.com/Chris-Beeee/Appium/blob/main/README.md)
+- **API Testing** — Pytest + Requests (positive/negative) → [Link](https://github.com/Chris-Beeee/APITestGeneric/blob/main/README.md)
+- **Load Testing** — Basic Locust implementation → [Link](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
 
 ---
 
