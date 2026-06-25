@@ -9,7 +9,7 @@
 ### Machine learning movie recommendation engine 
 * [ReadMe](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md) contains changelog of 20+ significant QA issues tackled so far
 * [Profile based recommendations](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_profile.py) using TF-IDF Vectorization and Cosine Similarity
-* ['Tinder for movies'](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)  - a more experimentalactive learning project with 'Epsilon greedy' mathematical weighting
+* ['Tinder for movies'](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)  - a more experimental active learning project with 'Epsilon greedy' mathematical weighting
 
 ### Web UI automation with backend API verification
 
