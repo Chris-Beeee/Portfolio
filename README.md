@@ -55,4 +55,4 @@ ISTQB Advanced Test Automation Engineer + Foundation.
 
 ---
 
-Feel free to explore any of the repositories. I'm happy to discuss the code, design decisions, or trade-offs in implementing a machine learning system. 
+Feel free to explore the repositories. I'm happy to discuss code, design decisions, trade-offs, or run through any of the test suites live.
