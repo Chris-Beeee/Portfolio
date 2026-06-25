@@ -13,14 +13,7 @@
 
 ### Web UI automation with backend API verification
 
-This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases
-* Front-end web UI interactions
-* Scraping for movie data from web UI
-* Comparing scraped results with back-end API results, with increasingly complex filter logic applied to both
-* A fallback mock API if user does not have API credentials
-* Tests can be run either with or without user login credentials. 
-* Parameterised tests
-* Randomised paramaters
+This project is using [themoviedb.org](https://www.themoviedb.org/) as it has a free API available for non-commercial projects. It combines several different elements into one set of test cases. It combines front-end web UI interaction using the full range of menus and options avaiable, and then verifying the results against a query from the TMDB API. 
     
 #### Selenium / Pytest (IDE: Pycharm)
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumUIVerification/blob/main/README.md)
