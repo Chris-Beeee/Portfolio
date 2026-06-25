@@ -6,23 +6,10 @@
 
 ## Automation Examples
 
-### (Work in Progress) Machine learning movie recommendation engine 
+### Machine learning movie recommendation engine 
 * [ReadMe](https://github.com/Chris-Beeee/ML_sandbox/blob/main/README.md) contains changelog of 20+ significant QA issues tackled so far
 * [Profile based recommendations](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_profile.py) using TF-IDF Vectorization and Cosine Similarity
 * ['Tinder for movies'](https://github.com/Chris-Beeee/ML_sandbox/blob/main/main_active.py)  - a more experimentalactive learning project with 'Epsilon greedy' mathematical weighting
-
-### (Work in Progress) Basic infrastructure verification using Pytest with Powershell integration
-* [ReadMe](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/README.md)
-* [Verify a folder structure and file contents](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_folder_structure.py)
-* [Verify Windows services and status](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_services.py)
-
-### (Work in Progress - very early) Performance/Load testing with Locust/Python
-* [ReadMe](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
-* [Basic load test using a public test resource](https://github.com/Chris-Beeee/Locust_load_test/blob/main/locustfile.py)
-
-### (Complete) Python script to add bespoke text to application cover letters
-* [ReadMe](https://github.com/Chris-Beeee/coverletter/blob/main/README.md)
-* [Main method](https://github.com/Chris-Beeee/coverletter/blob/main/main.py)
 
 ### Web UI automation with backend API verification
 
@@ -61,15 +48,22 @@ These are the same test cases re-factored to work in Playwright for Typescript
 * [Filtering on multiple complex metrics](https://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverComplex.spec.ts)
 * [Filtering on randomised metrics](http://github.com/Chris-Beeee/Typescript/blob/main/tests/tmdbDiscoverRandom.spec.ts)
 
-### Test case design: Linear design vs Page Object Model
-This project demonstrates re-factoring of linear test cases to the Page Object Model using three complex dynamic websites. 
-* [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
-* [GiantBomb (Linear)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_linear.py)
-* [GiantBomb (Page Object Model)](https://github.com/Chris-Beeee/SeleniumTests/blob/master/tests/test_giantbomb_frontpage_pom.py)
+### Infrastructure verification using Pytest with Powershell integration
+* [ReadMe](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/README.md)
+* [Verify a folder structure and file contents](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_folder_structure.py)
+* [Verify Windows services and status](https://github.com/Chris-Beeee/infrastructure_sandbox/blob/main/tests/test_services.py)
+
+### Performance/Load testing with Locust/Python
+* [ReadMe](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
+* [Basic load test using a public test resource](https://github.com/Chris-Beeee/Locust_load_test/blob/main/locustfile.py)
+
+### Python script to add bespoke text to application cover letters
+* [ReadMe](https://github.com/Chris-Beeee/coverletter/blob/main/README.md)
+* [Main method](https://github.com/Chris-Beeee/coverletter/blob/main/main.py)
 
 ### Mobile app tests using Appium + Pytest
 * [ReadMe](https://github.com/Chris-Beeee/Appium/blob/master/README.md)
-* [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)
+* [Front end scraping and back-end verification](https://github.com/Chris-Beeee/Appium/blob/master/tests/test_inventory_verification.py)**
 
 ### API testing using Pytest and requests
 * [ReadMe](https://github.com/Chris-Beeee/APITestGeneric/blob/main/README.md)
