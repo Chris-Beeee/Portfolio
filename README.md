@@ -40,7 +40,7 @@ This portfolio demonstrates my recent hands-on focus on strengthening **Python-b
 - **Load Testing** — Basic Locust implementation → [Link](https://github.com/Chris-Beeee/Locust_load_test/blob/main/README.md)
 
 <details>
-<summary><strong>Archived: Test Case Design (Linear vs Page Object Model)</strong></summary>
+<summary><strong> Test Case Design (Linear vs Page Object Model)</strong></summary>
 
 This older project demonstrates the refactoring of linear test cases to the Page Object Model using three complex dynamic websites. 
 * [ReadMe](https://github.com/Chris-Beeee/SeleniumTests/blob/master/README.md)
@@ -50,7 +50,7 @@ This older project demonstrates the refactoring of linear test cases to the Page
 </details>
 
 <details>
-<summary><strong>Archived: Past Professional Project (Cloud Migration)</strong></summary>
+<summary><strong> Past Professional Project (Cloud Migration)</strong></summary>
 
 **Large-scale transformational project** to move media content management from a Windows Form connected to an on-prem Oracle instance to an Azure cloud environment to allow outsourcing and machine learning.
 
